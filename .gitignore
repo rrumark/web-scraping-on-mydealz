@@ -1,0 +1,4 @@
+# Sanal ortam
+venv/
+env/
+.venv/
